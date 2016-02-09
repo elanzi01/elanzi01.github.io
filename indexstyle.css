@@ -1,14 +1,10 @@
 
 /* A stylesheet to format the index (homepage) of Elizabeth Lanzilla's website*/
 
-@page{
-	size: landscape;
-}
 
-}
 h1 {
 	text-align: center;
-	padding-top: 50px;
+	padding-top: 100px;
 	padding-bottom: 30px;
 	padding-left: 20px;
 	padding-right: 20px;
