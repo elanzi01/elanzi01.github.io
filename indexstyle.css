@@ -14,6 +14,8 @@ h1 {
 	color: #40e0d0;
 }
 
-.img-cicle {
+.IMG-cicle {
 	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
