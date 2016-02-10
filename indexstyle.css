@@ -3,7 +3,7 @@
 
 
 body{
-	background-image: url (fall.jpg);
+	background-image: url("fall.jpg");
 }
 h1 {
 	text-align: center;
