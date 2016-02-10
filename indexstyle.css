@@ -16,6 +16,8 @@ h1 {
 
 IMG.img-circle {
 	border-radius: 50%;
-	margin-left: auto;
-	margin-right: auto;
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height:300px;
 }
