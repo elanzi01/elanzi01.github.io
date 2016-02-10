@@ -34,6 +34,7 @@ IMG.img-circle {
 	padding: 25px 25px;
 	border-radius:50%;
 	background: white;
+	text-decoration: none;
 	color: purple;
 	border: solid 1px white;
 }
