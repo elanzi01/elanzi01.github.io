@@ -18,11 +18,14 @@ body{
 	margin-left:12%;
 }
 
-h1{
+h1 {
 	text-align: center;
-	font-size: 25px;
-	padding-top: 20px;
-	padding-bottom: 25px;
-	font-weight: bold;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 75px;
+	font-style: oblique;
 	font-family: Copperplate;
+	color: white;
 }
