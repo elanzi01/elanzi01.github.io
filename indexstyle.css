@@ -2,6 +2,9 @@
 /* A stylesheet to format the index (homepage) of Elizabeth Lanzilla's website*/
 
 
+body{
+	background-image: (Photo of Boston in the Fall.jpg);
+}
 h1 {
 	text-align: center;
 	padding-top: 50px;
