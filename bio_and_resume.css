@@ -24,6 +24,8 @@ h1 {
 	padding-bottom: 30px;
 	padding-left: 20px;
 	padding-right: 20px;
+	margin-left: 50%;
+	margin-right: 50%; 
 	font-size: 75px;
 	font-style: oblique;
 	font-family: Copperplate;
